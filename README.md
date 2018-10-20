@@ -38,3 +38,5 @@ DONE - I can report a thread and change it's reported value to true by sending a
 DONE - I can report a reply and change it's reported value to true by sending a PUT request to /api/replies/{board} and pass along the thread_id & reply_id. (Text response will be 'success')
 
 DONE - Complete functional tests that wholely test routes and pass.
+
+test
